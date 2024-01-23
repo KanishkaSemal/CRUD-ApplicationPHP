@@ -1,6 +1,6 @@
 ## Students Application System
 
-<p>🚀 Welcome to my individual project showcasing a School Student Application with seamless CRUD operations! 🎓💻.</p>
+<p>🚀 Welcome to my individual project showcasing a School Student Application with seamless CRUD operations!.</p>
 
 ## Features
 
